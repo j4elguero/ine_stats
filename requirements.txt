@@ -1,0 +1,6 @@
+jupyter
+jupytext
+numpy
+pandas
+pyjstat
+seaborn
